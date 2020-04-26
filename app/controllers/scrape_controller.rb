@@ -11,5 +11,6 @@ class ScrapeController < ApplicationController
   end
 
 private
-
+  def ph_search
+    
 end
