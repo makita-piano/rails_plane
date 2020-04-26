@@ -6,3 +6,4 @@
 /config/master.key
 /tmp
 /vendor/bundle
+/public/assets
