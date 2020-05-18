@@ -9,9 +9,9 @@ config/secret.ymlを読み込む
 ## 実装物
 
 #### /scrape
-適当にスクレイピングする
+スクレイピングする
 
 #### /etc
-適当にhtmlを公開する
+htmlを公開する
 
 
