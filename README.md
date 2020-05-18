@@ -1,24 +1,17 @@
-# README
+# Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 用途
+適当にrailsで処理したいとき用
 
-Things you may want to cover:
+## 環境設定
+config/secret.ymlを読み込む
 
-* Ruby version
+## 実装物
 
-* System dependencies
+#### /scrape
+適当にスクレイピングする
 
-* Configuration
+#### /etc
+適当にhtmlを公開する
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
